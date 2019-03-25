@@ -7,7 +7,7 @@ Audio indicator bar like default iOS music app.
 | ![SYAudioIndicatorView](https://github.com/hayabusabusa/SYAudioIndicatorView/blob/master/gifs/SYAudioIndicatorView.gif) |  
 
 ## Installation  
-Drag and drop **SYAudioIndicatorView.swift** in your Project.
+Drag and drop `SYAudioIndicatorView.swift` in your Project.
 
 ## Usage  
 ### Programmatically  
