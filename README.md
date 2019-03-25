@@ -51,5 +51,5 @@ audioIndicator.start()
 
 #### Stop  
 ```swift
-aduioIndicator.stop()
+audioIndicator.stop()
 ```
