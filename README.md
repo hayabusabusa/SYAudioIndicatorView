@@ -42,3 +42,14 @@ Only put a `View` on your `ViewController`. And set Custom Class `SYAudioIndicat
 | Identity Inspector | Attribute Inspector |  
 |:-:|:-:|  
 | ![view](https://github.com/hayabusabusa/SYAudioIndicatorView/blob/master/gifs/view.png) | ![settings](https://github.com/hayabusabusa/SYAudioIndicatorView/blob/master/gifs/settings.png) |
+
+### Animation start and stop  
+#### Start  
+```swift
+audioIndicator.start()
+```
+
+#### Stop  
+```swift
+aduioIndicator.stop()
+```
