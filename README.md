@@ -36,4 +36,9 @@ audioIndicator.setupBars()
 self.view.addSubView(audioIndicator)
 ```
 
-### Storyboard
+### Storyboard  
+Only put a `View` on your `ViewController`. And set Custom Class `SYAudioIndicatorView`.  
+
+| Identity Inspector | Attribute Inspector |  
+|:-:|:-:|  
+| ![view](https://github.com/hayabusabusa/SYAudioIndicatorView/blob/master/gifs/view.png) | ![settings](https://github.com/hayabusabusa/SYAudioIndicatorView/blob/master/gifs/settings.png) |
